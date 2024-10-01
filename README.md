@@ -1,92 +1,28 @@
-<!-- Dark-Themed GitHub Profile README with Animations -->
+<!-- Dark-Themed GitHub Profile README -->
 
-<!-- Add this to the head of your markdown or HTML file -->
-<style>
-  body {
-    background-color: #0d1117;
-    color: #c9d1d9;
-    font-family: Arial, sans-serif;
-  }
-
-  .container {
-    text-align: center;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: #161b22;
-    border-radius: 10px;
-    max-width: 800px;
-    animation: fadeIn 2s ease-in-out;
-  }
-
-  .title {
-    color: #58a6ff;
-    font-size: 2.5em;
-    margin-bottom: 10px;
-  }
-
-  .subtitle {
-    color: #8b949e;
-    font-size: 1.5em;
-    margin-bottom: 20px;
-  }
-
-  .profile-views, .trophy, .languages-tools {
-    margin-bottom: 20px;
-  }
-
-  .social-links a {
-    margin: 0 10px;
-    transition: transform 0.3s;
-  }
-
-  .social-links a:hover {
-    transform: scale(1.1);
-  }
-
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-
-  .stats {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  .stats img {
-    margin: 10px;
-    animation: slideIn 1s ease-in-out;
-  }
-
-  @keyframes slideIn {
-    0% { transform: translateY(20px); opacity: 0; }
-    100% { transform: translateY(0); opacity: 1; }
-  }
-</style>
-
-<div class="container">
-  <h1 class="title">Hi 👋, I'm Sriram Kal</h1>
-  <h3 class="subtitle">A passionate frontend developer from India</h3>
-
-  <p class="profile-views">
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+  <h1 style="color: #58a6ff;">Hi 👋, I'm Sriram Kal</h1>
+  <h3 style="color: #c9d1d9;">A passionate frontend developer from India</h3>
+  <p>
     <img src="https://komarev.com/ghpvc/?username=sriramk19&label=Profile%20views&color=0e75b6&style=flat-square" alt="sriramk19" />
   </p>
-
-  <p class="trophy">
+  <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=sriramk19&theme=darkhub" alt="sriramk19" />
     </a>
   </p>
+</div>
 
-  <h3 class="subtitle">Connect with me:</h3>
-  <p class="social-links">
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
+  <h3 style="color: #58a6ff;">Connect with me:</h3>
+  <p style="color: #c9d1d9;">
     <!-- Add your social media links here -->
-    <!-- Example: <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.icons8.com/ios-filled/50/58a6ff/twitter.png" alt="Twitter" width="30" height="30"></a> -->
   </p>
+</div>
 
-  <h3 class="subtitle">Languages and Tools:</h3>
-  <p class="languages-tools">
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
+  <h3 style="color: #58a6ff;">Languages and Tools:</h3>
+  <p>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
@@ -147,12 +83,14 @@
   </p>
 </div>
 
-<div class="container stats">
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sriramk19&show_icons=true&locale=en&layout=compact&theme=dark" alt="sriramk19" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriramk19&show_icons=true&locale=en&layout=compact&theme=dark" alt="sriramk19" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sriramk19&show_icons=true&locale=en&theme=dark" alt="sriramk19" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriramk19&show_icons=true&locale=en&theme=dark" alt="sriramk19" />
   </p>
   <p>
-    <img
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriramk19&theme=dark" alt="sriramk19" />
+  </p>
+</div>
