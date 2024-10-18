@@ -1,7 +1,7 @@
 <!-- Dark-Themed GitHub Profile README -->
 
 <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
-  <h1 style="color: #58a6ff;">Hi 👋, I'm Sriram Kal</h1>
+  <h1 style="color: #58a6ff;">Hi 👋, I'm Sriram 🪨</h1>
   <h3 style="color: #c9d1d9;">A passionate fullstack developer with a master's degree in cybersecurity from Ireland </h3>y
   <p>
     <img src="https://komarev.com/ghpvc/?username=sriramk19&label=Profile%20views&color=0e75b6&style=flat-square" alt="sriramk19" />
